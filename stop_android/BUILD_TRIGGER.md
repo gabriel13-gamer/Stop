@@ -1,0 +1,1 @@
+Android build pipeline trigger. The workflow validates, tests and builds STOP.apk.
